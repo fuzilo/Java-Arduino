@@ -1,6 +1,2 @@
 
-![Uploading 1000038310.jpg…]()
-
-
-![image](https://github.com/fuzilo/Java-Arduino/assets/19290063/b15fa1e1-8988-4a16-abb2-7f318681d4b7)
-
+![image](https://github.com/fuzilo/Java-Arduino/assets/19290063/6a05fce6-bef9-436d-bb82-1b8585d5d8ec)
