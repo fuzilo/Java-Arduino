@@ -14,7 +14,7 @@ public class Arduino {
     
     public Arduino(){
     
-            arduino = new ControlePorta("COM3", 9600);
+            arduino = new ControlePorta("COM5", 9600);
             
     }
     
